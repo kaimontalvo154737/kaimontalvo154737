@@ -5,6 +5,7 @@
 - 📫 How to reach me: you can't
 - 😄 Pronouns: we/us
 - ⚡ Fun facts: there are none
+- 🧮 Math: Math
 
 <!---
 kaimontalvo154737/kaimontalvo154737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
